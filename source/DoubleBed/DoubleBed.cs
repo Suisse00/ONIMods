@@ -105,13 +105,13 @@ namespace DoubleBed
             }
         }
 
-        private void UpdateOffset(Worker worker, Vector3 offset)
+        private void UpdateOffset(WorkerBase worker, Vector3 offset)
         {
             KBatchedAnimController animController = worker.GetComponent<KBatchedAnimController>();
             animController.Offset += offset;
         }
 
-        private void AddEffects(Worker worker)
+        private void AddEffects(WorkerBase worker)
         {
             if (this.effects != null)
             {
@@ -132,7 +132,7 @@ namespace DoubleBed
             roomType.TriggerRoomEffects(this.GetComponent<KPrefabID>(), worker.GetComponent<Effects>());
         }
 
-        private void RemoveEffects(Worker worker)
+        private void RemoveEffects(WorkerBase worker)
         {
             if (worker == null)
                 return;
