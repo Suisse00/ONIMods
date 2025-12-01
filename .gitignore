@@ -1,6 +1,7 @@
-source/lib*
+source/lib/*.dll
 source/packages
 source/CaiLib
+Mods/*/*.dll
 
 # Build results
 [Bb]in/
