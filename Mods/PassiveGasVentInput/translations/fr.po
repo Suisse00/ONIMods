@@ -67,3 +67,59 @@ msgctxt ""
 "PassiveGasVentInput.STRINGS.BUILDINGS.PREFABS.PASSIVEGASVENTINPUT.NAME"
 msgid "<link=\"PASSIVEGASVENTINPUT\">Gas Vent Input</link>"
 msgstr "<link=\"PASSIVEGASVENTINPUT\">Entrée passive de gaz </link>"
+
+#. PassiveGasVentInput.STRINGS.PASSIVEGASVENTINPUT.OPTIONS.MINIMUMPRESSURE.NAME
+msgctxt ""
+"PassiveGasVentInput.STRINGS.PASSIVEGASVENTINPUT.OPTIONS.MINIMUMPRESSURE."
+"NAME"
+msgid "Minimum pressure"
+msgstr "Pression minimale"
+
+#. PassiveGasVentInput.STRINGS.PASSIVEGASVENTINPUT.OPTIONS.MINIMUMPRESSURE.TOOLTIP
+msgctxt ""
+"PassiveGasVentInput.STRINGS.PASSIVEGASVENTINPUT.OPTIONS.MINIMUMPRESSURE."
+"TOOLTIP"
+msgid "Minimum gas pressure to start working.\nDefault = 2 Kg"
+msgstr "Pression minimale du gaz pour que l'équipement commence à fonctionner.\nPar défaut = 2 Kg"
+
+#. PassiveGasVentInput.STRINGS.PASSIVEGASVENTINPUT.OPTIONS.MINIMUMFLOW.NAME
+msgctxt ""
+"PassiveGasVentInput.STRINGS.PASSIVEGASVENTINPUT.OPTIONS.MINIMUMFLOW."
+"NAME"
+msgid "Minimum flow"
+msgstr "Débit minimal"
+
+#. PassiveGasVentInput.STRINGS.PASSIVEGASVENTINPUT.OPTIONS.MINIMUMFLOW.TOOLTIP
+msgctxt ""
+"PassiveGasVentInput.STRINGS.PASSIVEGASVENTINPUT.OPTIONS.MINIMUMFLOW."
+"TOOLTIP"
+msgid "Gas flow at minimum pressure.\nDefault = 0.0 Kg"
+msgstr "Débit du gaz lorsque la pression est au minimum.\nPar défaut = 0.0 Kg"
+
+#. PassiveGasVentInput.STRINGS.PASSIVEGASVENTINPUT.OPTIONS.MAXIMUMPRESSURE.NAME
+msgctxt ""
+"PassiveGasVentInput.STRINGS.PASSIVEGASVENTINPUT.OPTIONS.MAXIMUMPRESSURE."
+"NAME"
+msgid "Maximum pressure"
+msgstr "Pression maximale"
+
+#. PassiveGasVentInput.STRINGS.PASSIVEGASVENTINPUT.OPTIONS.MAXIMUMPRESSURE.TOOLTIP
+msgctxt ""
+"PassiveGasVentInput.STRINGS.PASSIVEGASVENTINPUT.OPTIONS.MAXIMUMPRESSURE."
+"TOOLTIP"
+msgid "Gas pressure which produces maximum flow.\nDefault = 602 Kg"
+msgstr "Pression du gaz pour générer le débit maximum.\nPar défaut = 602 Kg"
+
+#. PassiveGasVentInput.STRINGS.PASSIVEGASVENTINPUT.OPTIONS.MAXIMUMFLOW.NAME
+msgctxt ""
+"PassiveGasVentInput.STRINGS.PASSIVEGASVENTINPUT.OPTIONS.MAXIMUMFLOW."
+"NAME"
+msgid "Maximum flow"
+msgstr "Débit maximal"
+
+#. PassiveGasVentInput.STRINGS.PASSIVEGASVENTINPUT.OPTIONS.MAXIMUMFLOW.TOOLTIP
+msgctxt ""
+"PassiveGasVentInput.STRINGS.PASSIVEGASVENTINPUT.OPTIONS.MAXIMUMFLOW."
+"TOOLTIP"
+msgid "Maximum achievable gas flow.\nDefault = 3 Kg"
+msgstr "Débit maximal atteignable du gaz.\nPar défaut = 3 Kg"
