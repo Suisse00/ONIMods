@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+"Application: Oxygen Not Included"
+"POT Version: 2.0"
+
+#. PassiveGasVentInput.STRINGS.BUILDINGS.PREFABS.PASSIVEGASVENTINPUT.NAME
+msgctxt "PassiveGasVentInput.STRINGS.BUILDINGS.PREFABS.PASSIVEGASVENTINPUT.NAME"
+msgid "<link=\"PASSIVEGASVENTINPUT\">Entrada de Gás Passiva</link>"
+msgstr "<link=\"PASSIVEGASVENTINPUT\">Entrada de Gás Passiva</link>"
+
+#. PassiveGasVentInput.STRINGS.BUILDINGS.PREFABS.PASSIVEGASVENTINPUT.EFFECT
+msgctxt "PassiveGasVentInput.STRINGS.BUILDINGS.PREFABS.PASSIVEGASVENTINPUT.EFFECT"
+msgid "Bombeia <link=\"ELEMENTS_GAS\">gás</link> para <link=\"GASPIPING\">tubulações</link> usando alta pressão externa. Use para bombear gás em excesso."
+msgstr "Bombeia <link=\"ELEMENTS_GAS\">gás</link> para <link=\"GASPIPING\">tubulações</link> usando alta pressão externa. Use para bombear gás em excesso."
+
+#. PassiveGasVentInput.STRINGS.BUILDINGS.PREFABS.PASSIVEGASVENTINPUT.DESC
+msgctxt "PassiveGasVentInput.STRINGS.BUILDINGS.PREFABS.PASSIVEGASVENTINPUT.DESC"
+msgid "Pega gás passivamente do ambiente sob alta pressão."
+msgstr "Pega gás passivamente do ambiente sob alta pressão."
+
+#. PassiveGasVentInput.STRINGS.BUILDINGS.PREFABS.PASSIVEGASVENTINPUT.DESCRIPTORS.REQ_PRESSURE_DESC
+msgctxt "PassiveGasVentInput.STRINGS.BUILDINGS.PREFABS.PASSIVEGASVENTINPUT.DESCRIPTORS.REQ_PRESSURE_DESC"
+msgid "Pressão acima de {0}"
+msgstr "Pressão acima de {0}"
+
+#. PassiveGasVentInput.STRINGS.BUILDINGS.PREFABS.PASSIVEGASVENTINPUT.DESCRIPTORS.REQ_PRESSURE_TOOLTIP
+msgctxt "PassiveGasVentInput.STRINGS.BUILDINGS.PREFABS.PASSIVEGASVENTINPUT.DESCRIPTORS.REQ_PRESSURE_TOOLTIP"
+msgid "O edifício começa a funcionar quando a <style=\"KKeyword\">pressão</style> é maior que {0}"
+msgstr "O edifício começa a funcionar quando a <style=\"KKeyword\">pressão</style> é maior que {0}"
+
+#. PassiveGasVentInput.STRINGS.BUILDINGS.PREFABS.PASSIVEGASVENTINPUT.DESCRIPTORS.DEP_PRESSURE_DESC
+msgctxt "PassiveGasVentInput.STRINGS.BUILDINGS.PREFABS.PASSIVEGASVENTINPUT.DESCRIPTORS.DEP_PRESSURE_DESC"
+msgid "Produtividade depende da pressão"
+msgstr "Produtividade depende da pressão"
+
+#. PassiveGasVentInput.STRINGS.BUILDINGS.PREFABS.PASSIVEGASVENTINPUT.DESCRIPTORS.DEP_PRESSURE_TOOLTIP
+msgctxt "PassiveGasVentInput.STRINGS.BUILDINGS.PREFABS.PASSIVEGASVENTINPUT.DESCRIPTORS.DEP_PRESSURE_TOOLTIP"
+msgid "A produtividade do edifício aumenta em {0} a cada kg de atmosfera"
+msgstr "A produtividade do edifício aumenta em {0} a cada kg de atmosfera"
