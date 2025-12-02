@@ -1,0 +1,125 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Application: Oxygen Not IncludedPOT Version: 2.0\n"
+"X-Generator: Poedit 3.4.1\n"
+
+#. PassiveGasVentInput.STRINGS.BUILDINGS.PREFABS.PASSIVEGASVENTINPUT.DESC
+msgctxt ""
+"PassiveGasVentInput.STRINGS.BUILDINGS.PREFABS.PASSIVEGASVENTINPUT.DESC"
+msgid "Passively takes gas from the environment under a high pressure."
+msgstr ""
+"Prélève passivement du gaz dans l'environnement sous une pression élevée."
+
+#. PassiveGasVentInput.STRINGS.BUILDINGS.PREFABS.PASSIVEGASVENTINPUT.DESCRIPTORS.DEP_PRESSURE_DESC
+msgctxt ""
+"PassiveGasVentInput.STRINGS.BUILDINGS.PREFABS.PASSIVEGASVENTINPUT."
+"DESCRIPTORS.DEP_PRESSURE_DESC"
+msgid "Productivity depends on pressure"
+msgstr "Le débit dépend de la pression"
+
+#. PassiveGasVentInput.STRINGS.BUILDINGS.PREFABS.PASSIVEGASVENTINPUT.DESCRIPTORS.DEP_PRESSURE_TOOLTIP
+msgctxt ""
+"PassiveGasVentInput.STRINGS.BUILDINGS.PREFABS.PASSIVEGASVENTINPUT."
+"DESCRIPTORS.DEP_PRESSURE_TOOLTIP"
+msgid "Productivity of the building increases by {0} every atm kg"
+msgstr "Le débit de l'équipement augmente de {0} tous les atm kg"
+
+#. PassiveGasVentInput.STRINGS.BUILDINGS.PREFABS.PASSIVEGASVENTINPUT.DESCRIPTORS.REQ_PRESSURE_DESC
+msgctxt ""
+"PassiveGasVentInput.STRINGS.BUILDINGS.PREFABS.PASSIVEGASVENTINPUT."
+"DESCRIPTORS.REQ_PRESSURE_DESC"
+msgid "Pressure over {0}"
+msgstr "Pression supérieur à {0}"
+
+#. PassiveGasVentInput.STRINGS.BUILDINGS.PREFABS.PASSIVEGASVENTINPUT.DESCRIPTORS.REQ_PRESSURE_TOOLTIP
+msgctxt ""
+"PassiveGasVentInput.STRINGS.BUILDINGS.PREFABS.PASSIVEGASVENTINPUT."
+"DESCRIPTORS.REQ_PRESSURE_TOOLTIP"
+msgid ""
+"Building starts working when <style=\"KKeyword\">pressure</style> is greater "
+"than {0}"
+msgstr ""
+"L'équipement commence à fonctionner lorsque la <style=\"KKeyword\">pression</"
+"style> est supérieure à {0}"
+
+#. PassiveGasVentInput.STRINGS.BUILDINGS.PREFABS.PASSIVEGASVENTINPUT.EFFECT
+msgctxt ""
+"PassiveGasVentInput.STRINGS.BUILDINGS.PREFABS.PASSIVEGASVENTINPUT.EFFECT"
+msgid ""
+"Pumps <link=\"ELEMENTS_GAS\">gas</link> into <link=\"GASPIPING\">pipes</"
+"link> using high external pressure. Use to pump out excess gas."
+msgstr ""
+"Pompe <link=\"ELEMENTS_GAS\">le gaz</link> dans <link=\"GASPIPING\">les "
+"tuyaux</link> à l'aide d'une pression externe élevée. Sert à pomper l'excès "
+"de gaz."
+
+#. PassiveGasVentInput.STRINGS.BUILDINGS.PREFABS.PASSIVEGASVENTINPUT.NAME
+msgctxt ""
+"PassiveGasVentInput.STRINGS.BUILDINGS.PREFABS.PASSIVEGASVENTINPUT.NAME"
+msgid "<link=\"PASSIVEGASVENTINPUT\">Gas Vent Input</link>"
+msgstr "<link=\"PASSIVEGASVENTINPUT\">Entrée passive de gaz </link>"
+
+#. PassiveGasVentInput.STRINGS.PASSIVEGASVENTINPUT.OPTIONS.MINIMUMPRESSURE.NAME
+msgctxt ""
+"PassiveGasVentInput.STRINGS.PASSIVEGASVENTINPUT.OPTIONS.MINIMUMPRESSURE."
+"NAME"
+msgid "Minimum pressure"
+msgstr "Pression minimale"
+
+#. PassiveGasVentInput.STRINGS.PASSIVEGASVENTINPUT.OPTIONS.MINIMUMPRESSURE.TOOLTIP
+msgctxt ""
+"PassiveGasVentInput.STRINGS.PASSIVEGASVENTINPUT.OPTIONS.MINIMUMPRESSURE."
+"TOOLTIP"
+msgid "Minimum gas pressure to start working.\nDefault = 2 Kg"
+msgstr "Pression minimale du gaz pour que l'équipement commence à fonctionner.\nPar défaut = 2 Kg"
+
+#. PassiveGasVentInput.STRINGS.PASSIVEGASVENTINPUT.OPTIONS.MINIMUMFLOW.NAME
+msgctxt ""
+"PassiveGasVentInput.STRINGS.PASSIVEGASVENTINPUT.OPTIONS.MINIMUMFLOW."
+"NAME"
+msgid "Minimum flow"
+msgstr "Débit minimal"
+
+#. PassiveGasVentInput.STRINGS.PASSIVEGASVENTINPUT.OPTIONS.MINIMUMFLOW.TOOLTIP
+msgctxt ""
+"PassiveGasVentInput.STRINGS.PASSIVEGASVENTINPUT.OPTIONS.MINIMUMFLOW."
+"TOOLTIP"
+msgid "Gas flow at minimum pressure.\nDefault = 0.0 Kg"
+msgstr "Débit du gaz lorsque la pression est au minimum.\nPar défaut = 0.0 Kg"
+
+#. PassiveGasVentInput.STRINGS.PASSIVEGASVENTINPUT.OPTIONS.MAXIMUMPRESSURE.NAME
+msgctxt ""
+"PassiveGasVentInput.STRINGS.PASSIVEGASVENTINPUT.OPTIONS.MAXIMUMPRESSURE."
+"NAME"
+msgid "Maximum pressure"
+msgstr "Pression maximale"
+
+#. PassiveGasVentInput.STRINGS.PASSIVEGASVENTINPUT.OPTIONS.MAXIMUMPRESSURE.TOOLTIP
+msgctxt ""
+"PassiveGasVentInput.STRINGS.PASSIVEGASVENTINPUT.OPTIONS.MAXIMUMPRESSURE."
+"TOOLTIP"
+msgid "Gas pressure which produces maximum flow.\nDefault = 602 Kg"
+msgstr "Pression du gaz pour générer le débit maximum.\nPar défaut = 602 Kg"
+
+#. PassiveGasVentInput.STRINGS.PASSIVEGASVENTINPUT.OPTIONS.MAXIMUMFLOW.NAME
+msgctxt ""
+"PassiveGasVentInput.STRINGS.PASSIVEGASVENTINPUT.OPTIONS.MAXIMUMFLOW."
+"NAME"
+msgid "Maximum flow"
+msgstr "Débit maximal"
+
+#. PassiveGasVentInput.STRINGS.PASSIVEGASVENTINPUT.OPTIONS.MAXIMUMFLOW.TOOLTIP
+msgctxt ""
+"PassiveGasVentInput.STRINGS.PASSIVEGASVENTINPUT.OPTIONS.MAXIMUMFLOW."
+"TOOLTIP"
+msgid "Maximum achievable gas flow.\nDefault = 3 Kg"
+msgstr "Débit maximal atteignable du gaz.\nPar défaut = 3 Kg"
