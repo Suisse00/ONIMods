@@ -88,10 +88,10 @@ namespace Bioreactor
 
 			ManualDeliveryKG manualDeliveryKg = go.AddOrGet<ManualDeliveryKG>();
 			manualDeliveryKg.SetStorage(inStorage);
-			manualDeliveryKg.requestedItemTag = BioreactorConfig.COMPOST_TAG;
+			manualDeliveryKg.RequestedItemTag = BioreactorConfig.COMPOST_TAG;
 			manualDeliveryKg.capacity = BioreactorConfig.MAX_COMPOSTABLE_MASS_KG;
 			manualDeliveryKg.refillMass = BioreactorConfig.MAX_COMPOSTABLE_MASS_KG * 0.99f;
-			manualDeliveryKg.minimumMass = 1f;
+			manualDeliveryKg.MinimumMass = 1f;
 			manualDeliveryKg.choreTypeIDHash = Db.Get().ChoreTypes.FarmFetch.IdHash;
 
 			ConduitDispenser conduitDispenser = go.AddOrGet<ConduitDispenser>();
