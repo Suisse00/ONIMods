@@ -9,7 +9,7 @@ Use this method if mods aren't keep up to date within the Oxygen Not Included mo
 > [!NOTE]
 > It will be your responsability to check for new updates, to download new updates and to install them again.
 
-1. Download the latest [mods.zip](https://github.com/Suisse00/ONIMods/releases/latest/download/mods.zip)
+1. Download the latest [Mods.zip](https://github.com/Suisse00/ONIMods/releases/latest/download/Mods.zip)
 2. Unzip it into `%userprofile%\Documents\Klei\OxygenNotIncluded\mods\dev`
     > [!IMPORTANT]
     > It should create multiple subdirectories - each of the directory should be named as a mod name.
@@ -50,5 +50,5 @@ Use this method if mods aren't keep up to date within the Oxygen Not Included mo
     > It will copy the output binary into its `Mods`'s subdirectory
 4. Subfolders in `Mods` are your mods.
 
-    Zip subfolders in a file named mods.zip. Make sure if the user unzip it it will create subfolders matching the extension names.
-5. Create a release in github and upload mods.zip
+    Zip subfolders in a file named `Mods.zip`. Make sure if the user unzip it it will create subfolders matching the extension names.
+5. Create a release in github and upload `Mods.zip`
