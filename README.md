@@ -9,7 +9,7 @@ Use this method if mods aren't keep up to date within the Oxygen Not Included mo
 > [!NOTE]
 > It will be your responsability to check for new updates, to download new updates and to install them again.
 
-1. Download the latest [Mods.zip](https://github.com/Suisse00/ONIMods/releases/latest/download/Mods.zip)
+1. Download the latest [Mods.zip](https://github.com/ihoromi4/ONIMods/releases/latest/download/Mods.zip)
 2. Unzip it into `%userprofile%\Documents\Klei\OxygenNotIncluded\mods\dev`
     > [!IMPORTANT]
     > It should create multiple subdirectories - each of the directory should be named as a mod name.
